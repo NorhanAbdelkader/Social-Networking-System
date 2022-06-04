@@ -4,8 +4,8 @@ A simple system that connect users by simulating adding friends, recommending ne
 ## Features
 Login by userName (unique)
 choose:
-      1) List all friends.
-         get names of all user's frinds
+1. List all friends.
+    get names of all user's frinds
       2) Search by user name.
       3) Add friend.
          add new friend by his name
