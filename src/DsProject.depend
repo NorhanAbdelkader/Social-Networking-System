@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1626660735 source:e:\fcai\2nd level\2nd term\data structure\ds project\dsproject\main.cpp
+	<iostream>
+	"UserManager.h"
+
+1626660821 e:\fcai\2nd level\2nd term\data structure\ds project\dsproject\usermanager.h
+	<bits/stdc++.h>
+	<fstream>
+	<cstring>
+
+1626660735 source:e:\fcai\2nd level\2nd term\data structure\ds project\project_20180185_20190208_20190521_20190582_20190584_20190600_20190625\main.cpp
+	<iostream>
+	"UserManager.h"
+
+1626660821 e:\fcai\2nd level\2nd term\data structure\ds project\project_20180185_20190208_20190521_20190582_20190584_20190600_20190625\usermanager.h
+	<bits/stdc++.h>
+	<fstream>
+	<cstring>
+
+1626660735 source:e:\fcai\2nd level\2nd term\data structure\project_20180185_20190208_20190521_20190582_20190584_20190600_20190625\main.cpp
+	<iostream>
+	"UserManager.h"
+
+1626660821 e:\fcai\2nd level\2nd term\data structure\project_20180185_20190208_20190521_20190582_20190584_20190600_20190625\usermanager.h
+	<bits/stdc++.h>
+	<fstream>
+	<cstring>
+
