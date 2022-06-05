@@ -18,14 +18,4 @@ get recommended pepole to be frinds with the user.
 ## Implemented Data Structurs
 * Linked List.
 * Treap.
-   
-   
-   
-## Team:
-* Norhan Abdelkader
-* Nermeen Mohamed
-* Yomna Mahmoud
-* Nada Mousa
-* Rana Badr
-* Mariam Mohamed AboBakr
-* Amr Ahmed
+
